@@ -2,6 +2,8 @@
 
 An interactive product demo for the Wellcee AI profile completion redesign.
 
+Live demo: https://pixelpapillon.github.io/wellcee-ai-profile-demo/
+
 The flow demonstrates:
 
 1. AI quick-entry
